@@ -1,0 +1,11 @@
+[package]
+name = "FakeProcessNameDemo"
+version = "0.1.0"
+edition = "2024"
+authors = ["b1ackow1 <b1ackow1@pm.me>"]
+description = "fake name for linux"
+license = "MIT"
+repository = "https://github.com/b1ackow1/FakeProcessNameDemo"
+
+[dependencies]
+libc = "0.2.179"
