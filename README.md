@@ -3,6 +3,7 @@
 
 一个由Rust实现的Linux进程伪装工具。
 
+文章: [Rust for Linux 伪造进程名](https://b1ackow1.github.io/2026/01/03/linux-fake-process-name-for-rust/)
 
 
 ### 编译
